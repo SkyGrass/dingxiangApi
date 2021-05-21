@@ -1,0 +1,12 @@
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\TestApp.exe.config
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\TestApp.exe
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\TestApp.pdb
+E:\VSSourceCode\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+E:\VSSourceCode\TestApp\TestApp\obj\Debug\TestApp.exe
+E:\VSSourceCode\TestApp\TestApp\obj\Debug\TestApp.pdb
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\Newtonsoft.Json.dll
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\Newtonsoft.Json.xml
+E:\VSSourceCode\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\BouncyCastle.Crypto.dll
+E:\VSSourceCode\TestApp\TestApp\bin\Debug\BouncyCastle.Crypto.xml
+E:\VSSourceCode\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
